@@ -1,4 +1,4 @@
-# Use of support vector machine to detect different types of gas, for example I used to uncharted gas and insert that in contact of sensor and finally I 
+Use of support vector machine to detect different types of gas, for example I used to uncharted gas and insert that in contact of sensor and finally I 
 realize that which "acetone" or "ethanol" from their properties and support vector machine.
 you can see result of this experiment in below picture.
 
